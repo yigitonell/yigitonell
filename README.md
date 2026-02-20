@@ -1,6 +1,6 @@
 ## Hi there 👨‍💻
 
-I'm Yigit, a student of Mathematics at Istanbul University based in Turkey.
+I'm Yiğit, a student of Mathematics at Istanbul University based in Turkey.
 
 I'm creative and open to work.
 
