@@ -10,7 +10,7 @@ SQL, Python and MSoffice are what I'm currently working on, Interested in Data-S
 
 I'm using PyCharm, DataGrip, VScode, Excel on my works and I'm kind of note-taker, I'm using Apple Notes and using planners, to-do lists for my daily life.
 
-##More about me:
+# More about me:
 
   • Star Wars is my favourite movie-series.
 
