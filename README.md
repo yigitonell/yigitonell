@@ -12,7 +12,7 @@ I'm using PyCharm, DataGrip, VScode, Excel on my works and I'm kind of note-take
 
 # More about me:
 
-  • Star Wars is my favourite movie-series.
-  • I'm going to the gym 3-4 times a week.
-  • Reading books is on-top.
-  • I love playing games.
+• Star Wars is my favourite movie-series.
+• I'm going to the gym 3-4 times a week.
+• Reading books is on-top.
+• I love playing games.
